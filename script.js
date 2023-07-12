@@ -1,5 +1,3 @@
-
-
 /* Please ❤ this if you like it! */
 
 
@@ -82,4 +80,4 @@
 		$("body").removeClass("nature-on");
 	});
 	
-})(jQuery); 
+})(jQuery);
